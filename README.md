@@ -4,6 +4,8 @@ Installation
 Write in your `Gemfile`:
 
     gem 'yoda_language', :git => 'git://github.com/kryzhovnik/yoda_language.git'
+
+and run `bundle install`
     
 Usage
 =====
