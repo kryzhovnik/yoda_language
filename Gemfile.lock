@@ -1,0 +1,15 @@
+PATH
+  remote: .
+  specs:
+    yoda_language (0.0.1)
+
+GEM
+  specs:
+    unicode_utils (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  unicode_utils
+  yoda_language!

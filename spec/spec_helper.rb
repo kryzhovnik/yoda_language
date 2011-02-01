@@ -1,0 +1,1 @@
+require 'yoda_language'
